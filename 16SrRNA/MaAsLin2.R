@@ -3,7 +3,7 @@
 
 rm(list=ls())
 getwd()
-setwd("~/Desktop/handai/")
+setwd("~/Desktop/MaAsLin_Analysis/")
 #dir.create("R_Maaslin_result") # Create a new directory
 #setwd("R_Maaslin_result") # Change the current working directory 
 #getwd() #check if directory has been successfully changed
